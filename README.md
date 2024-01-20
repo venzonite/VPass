@@ -1,2 +1,2 @@
 # VPass
-The powerful password management tool
+The lightweight password management tool
