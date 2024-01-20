@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "VPass (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "VPass (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
